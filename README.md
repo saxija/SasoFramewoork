@@ -1,2 +1,2 @@
 # SasoFramewoork
-Cocoapod framwerok IGL
+Cocoapod framework IGL
